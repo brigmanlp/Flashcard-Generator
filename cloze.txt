@@ -1,0 +1,2 @@
+
+{"text":"The first iPhone was released on June 29, 2007","cloze":"2007"}{"text":"The first Star Wars movie was released in 1977","cloze":"1977"}{"text":"The first president of the US was George Washington","cloze":"George Washington"}

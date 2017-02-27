@@ -1,0 +1,1 @@
+{"front":"When was the first iPhone released?","back":"2007"}{"front":"What is the definition of CLI?","back":"Command Line Interface"}{"front":"What is the definition of CSS?","back":"Cascading Style Sheets"}
