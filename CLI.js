@@ -73,7 +73,7 @@ var clozeCreate = function() {
 
     ]).then(function(input) {
         var NewCloze = new clozeExports.ClozeFlash(input.text, input.cloze).findCloze();
-        // NewsCloze.displayCloze();
+        // NewCloze.displayCloze();
         console.log(`
         Here is the new Cloze Flashcard you created:
         Text:  ${input.text}
